@@ -145,3 +145,5 @@ This project is developed based on the following repositories:
 * [qqwweee/keras-yolo3](https://github.com/qqwweee/keras-yolo3)
 * [pierluigiferrari/ssd_keras](https://github.com/pierluigiferrari/ssd_keras)
 * [chenyuntc/simple-faster-rcnn-pytorch](https://github.com/chenyuntc/simple-faster-rcnn-pytorch)
+
+This work was funded by the Georgia Tech Research Institute PhD Fellowship.
